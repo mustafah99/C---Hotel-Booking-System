@@ -1,0 +1,12 @@
+C:\Workspace\ECUtbildning\C#\Hotel Booking System\Hotel Booking System\bin\Debug\netcoreapp3.1\Hotel Booking System.exe
+C:\Workspace\ECUtbildning\C#\Hotel Booking System\Hotel Booking System\bin\Debug\netcoreapp3.1\Hotel Booking System.deps.json
+C:\Workspace\ECUtbildning\C#\Hotel Booking System\Hotel Booking System\bin\Debug\netcoreapp3.1\Hotel Booking System.runtimeconfig.json
+C:\Workspace\ECUtbildning\C#\Hotel Booking System\Hotel Booking System\bin\Debug\netcoreapp3.1\Hotel Booking System.runtimeconfig.dev.json
+C:\Workspace\ECUtbildning\C#\Hotel Booking System\Hotel Booking System\bin\Debug\netcoreapp3.1\Hotel Booking System.dll
+C:\Workspace\ECUtbildning\C#\Hotel Booking System\Hotel Booking System\bin\Debug\netcoreapp3.1\Hotel Booking System.pdb
+C:\Workspace\ECUtbildning\C#\Hotel Booking System\Hotel Booking System\obj\Debug\netcoreapp3.1\Hotel Booking System.AssemblyInfoInputs.cache
+C:\Workspace\ECUtbildning\C#\Hotel Booking System\Hotel Booking System\obj\Debug\netcoreapp3.1\Hotel Booking System.AssemblyInfo.cs
+C:\Workspace\ECUtbildning\C#\Hotel Booking System\Hotel Booking System\obj\Debug\netcoreapp3.1\Hotel Booking System.csproj.CoreCompileInputs.cache
+C:\Workspace\ECUtbildning\C#\Hotel Booking System\Hotel Booking System\obj\Debug\netcoreapp3.1\Hotel Booking System.dll
+C:\Workspace\ECUtbildning\C#\Hotel Booking System\Hotel Booking System\obj\Debug\netcoreapp3.1\Hotel Booking System.pdb
+C:\Workspace\ECUtbildning\C#\Hotel Booking System\Hotel Booking System\obj\Debug\netcoreapp3.1\Hotel Booking System.genruntimeconfig.cache
